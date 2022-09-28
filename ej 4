@@ -1,0 +1,13 @@
+{
+			public static void main(String[] args)
+			{ 
+					System.out.println("L" + "\t" + "M" + "\t" + "X" + "\t" + "J"+ "\t" + "V");
+					System.out.println("\033[34m" +"bda" + "\t" + "prg" + "\t" + "prg" + "\t" + "eds" + "\t" +"\033[34m" + "bda");
+					System.out.println("\033[34m" +"bda" + "\t" + "prg"+ "\t" +    "prg" + "\t" +			 "prg" + "\t" +     "bda");
+					System.out.println("ing"+ "\t" +   "eds"+ "\t" +    "prg" + "\t" +        "prg" + "\t" + "\033[34m" +    "bda");
+					System.out.println("fol"+ "\t" +   "lms" + "\t" +   "sin" + "\t" +      "sin" + "\t" +    "lms");
+					System.out.println("fol"+ "\t" +		"lms"+ "\t" +    "sin"+ "\t" +       "sin"+ "\t" +     "lms");
+					System.out.print("\033[34m" + "bda");
+					
+			}
+ }
